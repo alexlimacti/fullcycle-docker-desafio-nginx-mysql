@@ -22,5 +22,6 @@ cd fullcycle-docker-desafio-nginx-mysql
 
 docker-compose up [-d]
 ```
+
 <br/>
 <br/>
